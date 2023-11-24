@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TugasFrontend_15/static/css/main.580850b6.css",
+    "main.js": "/TugasFrontend_15/static/js/main.04e6aebd.js",
+    "static/js/787.d743d556.chunk.js": "/TugasFrontend_15/static/js/787.d743d556.chunk.js",
+    "index.html": "/TugasFrontend_15/index.html",
+    "main.580850b6.css.map": "/TugasFrontend_15/static/css/main.580850b6.css.map",
+    "main.04e6aebd.js.map": "/TugasFrontend_15/static/js/main.04e6aebd.js.map",
+    "787.d743d556.chunk.js.map": "/TugasFrontend_15/static/js/787.d743d556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580850b6.css",
+    "static/js/main.04e6aebd.js"
+  ]
+}
